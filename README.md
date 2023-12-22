@@ -1,6 +1,8 @@
 ## Netflix Clone
 Welcome to the Netflix Clone, your gateway to a world of entertainment! 🍿
 
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/oenruB2DKC7p6/giphy.gif"> 
+
 ## Overview
 This project is a meticulously crafted Netflix homepage clone, designed to bring the immersive streaming experience you love directly to your fingertips. Whether you're a movie buff, TV show enthusiast, or documentary lover, our Netflix Clone has got you covered.
 
